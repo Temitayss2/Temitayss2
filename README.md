@@ -1,7 +1,3 @@
-Great background! Here’s a polished, professional summary you can use for your resume, LinkedIn, or portfolio. I’ve organized your experience and added clarity for maximum impact:
-
----
-
 **Professional Summary**
 
 Experienced Product Owner and Full Stack Developer with a background in global HVAC (Woods Air Movement) and extensive expertise in both frontend and backend management. Specializes in building innovative software solutions, including:
